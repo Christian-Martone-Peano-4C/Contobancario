@@ -1,4 +1,9 @@
 # Contobancario
+
+
+
+
+
 Ereditarietà:
 con il concetto di ereditarietà si intende la capacità di una superclasse di trasmettere alle
 sue sottoclassi i suoi metodi e i suoi attributi.
@@ -11,12 +16,20 @@ semplificare la costruzione di nuove classi e la manutenzione.
 
 
 
+
+
+
+
 Polimorfismo:
 con il polimorfismo un metodo assume una diversa funzione nel programma e serve
 per ridefinire un metodo gia esistente nella superclasse con lo stesso nome. Per fare ciò
 si utilizza un override che serve per sovrascrivere i dati.
 Ad esempio io ho utilizzato il polimorfismo nella sottoclasse ContoBancarioEsteso,
 modificando il metodo “prelievo” con Fido.
+
+
+
+
 
 
 
