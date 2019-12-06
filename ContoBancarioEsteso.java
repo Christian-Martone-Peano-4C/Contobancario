@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author brugiafreddo.fabio
+ * @author martone.christian
  */
 public class ContoBancarioEsteso extends ContoBancario {
 
