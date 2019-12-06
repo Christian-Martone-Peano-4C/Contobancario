@@ -42,7 +42,7 @@ anche in attributi e metodi.Nel costruttore il this indica il parametro dell ogg
 
 
 protected: è una variabile di visibilità, essa permette la lettura della variabile indicata a tutte le sottoclassi.
-super(): si usa per indicare un parametro ereditato dalla superclasse,é utilazzato nel costruttore della sottoclasse.
+super(): si usa per indicare un parametro ereditato dalla superclasse,é utilizzato nel costruttore della sottoclasse.
  
  
  Dentro un metoido c'è la possibilità di necessitare di una variabile, quando viene scritta nelle parentesi del metodo viene detta variabile passata per riferimennto.Viene utilizzato per evitare di creare infinite variabili dentro i metodi, che occcuperebbero spazio di memoria.
