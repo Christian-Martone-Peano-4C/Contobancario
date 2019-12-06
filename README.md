@@ -36,4 +36,15 @@ modificando il metodo “prelievo” con Fido.
 This:
 questo comando serve a identificare un attributo se si ha una variabile con lo stesso
 nome all’interno dei metodi. E utilizzato principalmente all’ interno dei costruttori o
-anche in attributi e metodi.
+anche in attributi e metodi.Nel costruttore il this indica il parametro dell oggetto indicato.
+
+
+
+
+protected: è una variabile di visibilità, essa permette la lettura della variabile indicata a tutte le sottoclassi.
+super(): si usa per indicare un parametro ereditato dalla superclasse,é utilazzato nel costruttore della sottoclasse.
+ 
+ 
+ Dentro un metoido c'è la possibilità di necessitare di una variabile, quando viene scritta nelle parentesi del metodo viene detta variabile passata per riferimennto.Viene utilizzato per evitare di creare infinite variabili dentro i metodi, che occcuperebbero spazio di memoria.
+
+
