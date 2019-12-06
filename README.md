@@ -34,9 +34,7 @@ modificando il metodo “prelievo” con Fido.
 
 
 This:
-questo comando serve a identificare un attributo se si ha una variabile con lo stesso
-nome all’interno dei metodi. E utilizzato principalmente all’ interno dei costruttori o
-anche in attributi e metodi.Nel costruttore il this indica il parametro dell oggetto indicato.
+ E utilizzato principalmente all’ interno dei costruttori e dei metodi.Nel costruttore il this indica il parametro dell oggetto indicato.
 
 
 
