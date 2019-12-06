@@ -21,6 +21,12 @@ public class TestContoBancario {
         c2.deposito(1000);
         c2.prelievo(2000);
         System.out.println(c2);
+        
+        ContoBancario alfa = new ContoBancarioEsteso ("BBB", 500);
+        System.out.println(alfa.bilancio);
+        System.out.println(alfa.numConto);
+        System.out.println(alfa.fido)
+        
     }
     
     
